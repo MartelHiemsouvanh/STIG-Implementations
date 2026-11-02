@@ -26,9 +26,6 @@
     PS C:\> .\__remediation_template(STIG-ID-WN11-AU-000589).ps1 
 #>
 
-# YOUR CODE GOES HERE
-
-
 #Requires -RunAsAdministrator
 
 $guid  = '{0CCE921E-69AE-11D9-BED3-505054503030}'   # Audit Registry

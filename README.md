@@ -1,1 +1,1 @@
-# STIG-Implementations--PowerShell-
+# STIG-Implementations
